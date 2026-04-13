@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8d7494dac0f16ec7",
+        "id": "ad06312535cd64c7",
         "type": "tabs",
         "children": [
           {
-            "id": "6ee140f3c4e6dbfc",
+            "id": "080d15e758e89ca6",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
         ]
@@ -161,17 +161,18 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "6ee140f3c4e6dbfc",
+  "active": "080d15e758e89ca6",
   "lastOpenFiles": [
-    "A Farsa do Fim do Pix.md",
-    "Ouro do Século XXI.md",
-    "O Colapso do BRB.md",
-    "A Corte de Vorcaro.md",
-    "O Despertar da Realidade.md",
-    "A Blindagem de Vidro.md",
-    "O Castelo de Cartas do STF.md",
-    "A Manobra do Desespero.md",
-    "O Acordão do Sistema.md",
+    "12-04-2026-GABINETE DO ÓDIO.md",
+    "11-04-2026-O STF EM CHAMAS.md",
+    "12-04-2026-O DERRETIMENTO DO REINADO.md",
+    "12-04-2026-O PÂNICO NO PLANALTO.md",
+    "01-04-2026-a.md",
+    "01-04-2026-t.md",
+    "11-04-2026-t.md",
+    "09-04-2026-t.md",
+    "07-04-2026-t.md",
+    "02-04-2026-t.md",
     "A Queda de um Ídolo de Barro.md"
   ]
 }
