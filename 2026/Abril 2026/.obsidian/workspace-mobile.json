@@ -11,10 +11,14 @@
             "id": "080d15e758e89ca6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Abril-2026-Paulo Figueiredo-att-14-04.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Abril-2026-Paulo Figueiredo-att-14-04"
             }
           }
         ]
@@ -163,6 +167,7 @@
   },
   "active": "080d15e758e89ca6",
   "lastOpenFiles": [
+    "Abril-2026-Paulo Figueiredo-att-14-04.md",
     "12-04-2026-GABINETE DO ÓDIO.md",
     "11-04-2026-O STF EM CHAMAS.md",
     "12-04-2026-O DERRETIMENTO DO REINADO.md",
