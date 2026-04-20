@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7d610f10ba1cc73f",
+        "id": "5bc379b7b41d733e",
         "type": "tabs",
         "children": [
           {
-            "id": "5d241e399a0361d6",
+            "id": "18da6e4bb228ed9a",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -108,6 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Sem título 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -161,20 +162,35 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "c5023b6672f9f7c1",
+  "active": "18da6e4bb228ed9a",
   "lastOpenFiles": [
-    "Abril-2026-Paulo Figueiredo-att-14-04.md",
+    "Abril-2026 - Ancapsu - att 14-04.md",
+    "Sem título 3.md",
+    "Sem título 2.md",
+    "Sem título 1.md",
+    "Sem título.md",
     "Abril-2026-Te Atualizei-att-14-04.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "Abril-2026 - Ancapsu.md",
+    "Abril-2026 - Ancapsu.md",
+    "Abril-2026-Paulo Figueiredo-att-14-04.md",
     "12-04-2026-GABINETE DO ÓDIO.md",
-    "11-04-2026-O STF EM CHAMAS.md",
-    "12-04-2026-O DERRETIMENTO DO REINADO.md",
-    "12-04-2026-O PÂNICO NO PLANALTO.md",
-    "01-04-2026-a.md",
-    "01-04-2026-t.md",
-    "11-04-2026-t.md",
-    "09-04-2026-t.md",
-    "07-04-2026-t.md",
-    "02-04-2026-t.md",
-    "A Queda de um Ídolo de Barro.md"
+    "11-04-2026-O STF EM CHAMAS.md"
   ]
 }
